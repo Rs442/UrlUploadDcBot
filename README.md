@@ -58,7 +58,7 @@ python bot.py
 
 <h3>Questions</h3>
 
-<p>For questions and support please use <a href="https://github.com/selfie-bd/UrlUploadDcBot/discussions" target="_blank" rel="noopener noreferrer">Discussions</a>. The issue list of this repo is <strong>exclusively</strong> for bug reports and feature requests.</p>
+<p>For questions and support please use <a href="https://github.com/Rs442/UrlUploadDcBot/discussions" target="_blank" rel="noopener noreferrer">Discussions</a>. The issue list of this repo is <strong>exclusively</strong> for bug reports and feature requests.</p>
 
 <h3>Stay In Touch</h3>
 
