@@ -48,7 +48,7 @@ python bot.py
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/selfie-bd/UrlUploadDcBot
+git clone https://github.com/Rs442/UrlUploadDcBot
 pip3 install -U -r requirements.txt
 # Edit info.py with variables.
 python bot.py
